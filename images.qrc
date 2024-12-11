@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/background.jpg</file>
+        <file>resource/field.png</file>
+        <file>resource/Empire.ico</file>
+        <file>resource/capital.png</file>
+        <file>resource/ProvincialCapital.png</file>
+        <file>resource/CountyTown.png</file>
+        <file>resource/Town.png</file>
+        <file>resource/grass.jpg</file>
+        <file>resource/fight.jpg</file>
+        <file>resource/pos_l.png</file>
+        <file>resource/pos_r.png</file>
+        <file>resource/qq_l.png</file>
+        <file>resource/qq_r.png</file>
+        <file>resource/gs_l.png</file>
+        <file>resource/gs_r.png</file>
+        <file>resource/zz_l.png</file>
+        <file>resource/zz_r.png</file>
+        <file>resource/zq_l.png</file>
+        <file>resource/zq_r.png</file>
+        <file>resource/general.txt</file>
+        <file>resource/city.txt</file>
+    </qresource>
+</RCC>
